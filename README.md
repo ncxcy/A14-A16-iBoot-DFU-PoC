@@ -1,8 +1,8 @@
 # PoC
 
 PoC for iBoot dfu jump table dispatch and sep vuln map
-Tested on A14 - A16
-Affected versions: iOS 26.0 - 26.6.0 (maybe 26.6.1)
+**Tested on A14 - A16**
+**Affected versions: iOS 26.0 - 26.6.0 (maybe 26.6.1)**
 
 ### iBoot vulnerability findings which i found
 
